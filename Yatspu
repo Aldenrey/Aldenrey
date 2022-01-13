@@ -1,0 +1,101 @@
+Top of Form
+Line wrap
+Bottom of Form
+
+<html> 
+<head> 
+<title> RESUME </title> 
+</head> 
+<style> 
+<p> 
+{ 
+border:5px solid green 
+} 
+</style> 
+
+<p> 
+
+
+<body> 
+<center> 
+<h1> 
+<u> My Resume </u> 
+</h1> 
+</center> 
+
+<h3>Alden Rey T. Puyat</h3> 
+<img src="denden.jpg" width=72 BBBBpx height=108 hspace=300 align=right> 
+<h5>Cell No:+639683022312 </h5> 
+<h5>E-mail:puyataldenrey2020@gmail.com</h5> 
+<h5>Address:Purok 4 cmr Maigo Lanao del Norte</h5><hr> 
+
+<h2> 
+<div style="background-color:gray;color:white;padding:05px;"> 
+<u> Career Objectives</u> 
+</h2> 
+
+<h3> 
+To emprove the skills and always practice. 
+</3> 
+<h2> 
+<div style="background-color:gray;color:white;padding:05px;"> 
+<u> Personal details </u> 
+</h2> 
+<ul> 
+<b> 
+<h3> 
+<li> Date of birth: May 12, 2000 
+<li>Age: 21
+<li>Gender: Male 
+<li>Nickname: Denden
+<li>Mother: Alma T. Puyat
+<li>Father: Edgar M. Puyat 
+<li>Religion: Roman Catholic 
+<li>Status: Single 
+<li> hobies: </li> 
+<ul> 
+<li> jamming
+<li>swimming 
+<li> dancing 
+</li> 
+</ul> 
+</ul> 
+<h2> 
+<div style="background-color:gray;color:white;padding:05px;"> 
+<u> Academic Application </u> 
+</h2> 
+<table border =4 width = 1000> 
+<tr> 
+<th> Elementary </th> 
+<th> Junior School</th> 
+<th> Senior High</th> 
+<th> College </th> 
+</tr> 
+
+<tr> 
+<th>Claro M. Recto l <br>  Elementary School</th> 
+<th> Maigo National High School</th> 
+<th> Maigo  Senior high School</th> 
+<th> Gon. Alfonso D. Tan College</th> 
+</tr> 
+
+</table> 
+<h2> 
+<div style="background-color:gray;color:white;padding:05px;"> 
+<u> Strengt</u> 
+</h2> 
+
+<ul> 
+<h3> 
+<b> 
+<li> good communication skills 
+<li>focused and confident with positive mindset
+<li>self confidence</li> 
+<h3> 
+<b> 
+</ul> 
+
+
+</body> 
+</p> 
+</html>
